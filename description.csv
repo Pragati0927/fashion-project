@@ -1,0 +1,46 @@
+image_name|item_name|type|trend|colour|weather|gender|age|description,image_name,item_name,type,trend,colour,weather,gender,age,description
+tshirt1.jpg | tshirt | top | casual | white | summer | female | adult | white cotton casual t-shirt for men,,,,,,,,,
+jeans1.jpg | jeans |bottom | casual | blue | all | female | adult | blue denim jeans for women,,,,,,,,,
+dress1.jpg | dress | dress | party | red | summer | female | young | red sleeveless party dress for young girls,,,,,,,,,
+hoodie1.jpg | hoodie | top | casual | black | winter | male | teen | black hoodie for teenage boys,,,,,,,,,
+skirt1.jpg | skirt | bottom | formal | grey | summer | female | adult | grey skirt for women's office wear ,,,,,,,,,
+jacket1.jpg | jacket | top | formal | blue | winter | male | adult | blue jacket for men's winter meetings,,,,,,,,,
+shorts1.jpg | shorts | bottom | casual | khaki | summer | male | young | khaki shorts for summer outings for boys,,,,,,,,,
+sweater1.jpg | sweater | top | casual | brown | winter | female | adult | brown sweater for cold weather for women,,,,,,,,,
+gown1.jpg | gown | dress | formal | pink | winter | female | adult | pink winter gown for formal parties,,,,,,,,,
+joggers1.jpg | joggers | bottom | casual | grey | all | male | adult | grey jogger pants for casual wear for men,,,,,,,,,
+blazer1.jpg | blazer | top | formal | black | all | male | adult | black blazer for formal business meetings,,,,,,,,,
+salwar1.jpg | salwar | dress | traditional | white | all | female | adult | white salwar suit for traditional events,,,,,,,,,
+romper1.jpg | romper | dress | casual | yellow | summer | female | baby | yellow romper for baby girls,,,,,,,,,
+dungaree1.jpg | dungaree | bottom | casual | blue | summer | male | toddler | blue dungaree for toddler boys,,,,,,,,,
+saree1.jpg | saree | dress | traditional | red | all | female | adult | red silk saree for weddings,,,,,,,,,
+saree2.jpg | saree | dress | traditional | blue | all | female | adult | blue cotton saree for daily wear,,,,,,,,,
+lehenga1.jpg | lehenga | dress | traditional | pink | all | female | young | pink bridal lehenga for young women,,,,,,,,,
+salwar2.jpg | salwar | dress | traditional | yellow | all | female | adult | yellow embroidered salwar suit,,,,,,,,,
+anarkali1.jpg | anarkali | dress | traditional | purple | all | female | adult | purple anarkali suit for festivals,,,,,,,,,
+dhoti1.jpg | dhoti | bottom | traditional | white | summer | male | adult | white dhoti for traditional ceremonies,,,,,,,,,
+kurta_set1.jpg | kurta set| top | traditional | skyblue| all | male | adult | skyblue kurta set for festive occasions,,,,,,,,,
+jutti1.jpg | jutti | footwear | traditional | brown | all | male | adult | brown leather jutti for men,,,,,,,,,
+sandals1.jpg | sandals | footwear | casual | black | summer | female | adult | black sandals for summer outings,,,,,,,,,
+indo_western1.jpg | indo western dress | dress | indo-western | purple | all | female | young | purple indo-western gown for parties,,,,,,,,,
+sherwani1.jpg | sherwani | top | traditional | gold | winter | male | adult | gold embroidered sherwani for weddings,,,,,,,,,
+saree3.jpg | saree | dress | traditional | offwhite | all | female | adult | offwhite chiffon saree for casual events,,,,,,,,,
+kurti1.jpg | kurti | top | casual | white | summer | female | adult | white cotton kurti for daily wear,,,,,,,,,
+tshirt2.jpg | tshirt |top | casual | blue | summer | female | adult | blue cotton casual t-shirt for women,,,,,,,,,
+saree4.jpg | saree |dress | traditional | offwhite | all | female | adult | white cotton saree for casual events,,,,,,,,,
+jacket_green_1.jpg | jacket | top | casual | green |winter | female | adult | green casual winter jacket for women
+jacket_green_2.jpg |jacket|top|casual|green|winter|female|adult|green casual winter jacket for women
+jacket_green_3.jpg | jacket | top | casual | green | winter | female | adult | green casual winter jacket for women
+jacket_green_4.jpg | jacket | top | casual | green | winter | female | adult | green casual winter jacket for women
+jacket_green_5.jpg | jacket | top | casual | green | winter | female | adult | green casual winter jacket for women
+000001.jpg | dress |dress | white | summer | female | adult | white summer dress for women
+000002.jpg | dress |jumpsuit | white | summer | female | adult | white jumpsuit for women
+000003.jpg | dress | skirt | white | summer | female | adult | white summer dress for women
+000004.jpg | dress | dress | white | summer | female | adult | white summer dress for women
+000005.jpg | shirt | formal | white | summer | female | adult |white summer dress for women,any,,kurti1.jpg
+
+,any,,kurti1.jpg
+,any,,saree4.jpg
+,any,,tshirt2.jpg
+,any,,kurti2.jpg
+,any,,saree3.jpg
